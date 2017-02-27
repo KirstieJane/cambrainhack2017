@@ -28,7 +28,7 @@
     "desc":"Meet researchers from a variety of backgrounds.",
     "fa_icon": "fa-wechat"}],
     "details": {"costs":"£10 per day or £25 for all three days, includes onsite coffee, lunch, and afternoon wine reception"},
-    "schedule_background_img": "https://www.manylabs.org/file/general/home/optics-experiment.jpg",
+    "schedule_background_img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Corpus_Christi_College_New_Court,_Cambridge,_UK_-_Diliff.jpg",
     "schedule":  [{"date": "Thursday, March 02",
                   "times": [{"time": "9:00am", "event": "Registration, coffee and open hacking"},
                             {"time": "9:45am", "event": "Intro to Brainhack-Global"},
